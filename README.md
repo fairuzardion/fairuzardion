@@ -1,5 +1,5 @@
 # Fairuz Raihan Ardion
-DevOps & Web developer Ethusiast
+CyberSecurity Enthusiast
 
 ---
 
