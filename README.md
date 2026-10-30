@@ -4,5 +4,5 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdnem5pMzFvamh5dHgzaGtycDdwdWF2ZHBvcHF3b250djQ2MHl3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4B8IPrI2BOFCpr5P9/giphy.gif" width="180" alt="CuteCat" />
+  <img src="https://www.worldatlas.com/upload/a2/ce/c2/adobestock-557221436.jpeg" width="180" alt="Alexander_the_Great" />
 </p>
