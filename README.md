@@ -2,7 +2,3 @@
 > Cybersecurity Enthusiast & Informatics Engineering Student
 
 ---
-
-<p align="center">
-  <img src="https://www.worldatlas.com/upload/a2/ce/c2/adobestock-557221436.jpeg" width="400px" alt="Alexander_the_Great"/>
-</p>
